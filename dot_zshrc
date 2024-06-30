@@ -24,3 +24,5 @@ bindkey "^[[1;5D" backward-word
 
 # Run pfetch
 pfetch
+
+eval "$(ssh-agent)"
